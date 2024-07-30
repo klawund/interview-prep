@@ -1,11 +1,11 @@
 # interview-prep
 
-[ ] linked list
-[ ] binary tree
-[ ] stack
-[ ] queue
-[ ] hash table
-[ ] string
-[ ] array
-[ ] heap
-[ ] priority queue
+✅ linked list<br>
+⛔ binary tree<br>
+⛔ stack<br>
+⛔ queue<br>
+⛔ hash table<br>
+⛔ string<br>
+⛔ array<br>
+⛔ heap<br>
+⛔ priority queue
