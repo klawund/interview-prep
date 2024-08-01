@@ -7,5 +7,5 @@
 ✅ hash table<br>
 ⛔ string<br>
 ⛔ array<br>
-⛔ heap<br>
-⛔ priority queue
+✅ heap<br>
+✅ priority queue
